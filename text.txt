@@ -1,0 +1,15 @@
+{
+    "palit1234@gmail.compalit1234": {
+        "name": "Pratyush Palit",
+        "email": "palit1234@gmail.com",
+        "address": "Kolkata",
+        "mobile": "9874563210",
+        "state": "West Bengal",
+        "country": "India",
+        "college": "HIT",
+        "department": "CSEDS",
+        "Roll no": "2262045",
+        "Gender": "male",
+        "password": "palit1234"
+    }
+}
